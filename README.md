@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Hussain!;" alt="Typing SVG" />
 </h1>
@@ -38,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,bootstrap,tailwind,daisyui,chakraui" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,bootstrap,tailwind,daisyui,chakraui,git,github,vscode,postman,socketio,c,vercel,netlify" />
 </div>
 
 <br/>
