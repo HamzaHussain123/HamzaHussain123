@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Hussain!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate Full Stack Web Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">
+    A passionate Full Stack Web Developer from Pakistan 🇵🇰
+</h3>
 
 <br/>
 
@@ -22,13 +24,19 @@
 
 <div align="center"> 
   <a href="mailto:hamza.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 12px; padding: 10px; background: #282828;" />
+    <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         alt="Email" style="border-radius: 12px; padding: 10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
   <a href="https://www.linkedin.com/in/hamza-hussain-0aa2b025a/" target="_blank">
-    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 12px; padding: 10px; background: #0072b1;" />
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn" style="border-radius: 12px; padding: 10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
   <a href="https://portfolio-hamzaa.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/-Check%20Out%20My%20Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" style="border-radius: 12px; padding: 10px; background: #282828;" /> 
+     <img src="https://img.shields.io/badge/-Check%20Out%20My%20Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" 
+          alt="Portfolio" style="border-radius: 12px; padding: 10px; transition: transform 0.3s;" 
+          onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
 </div>
 
@@ -37,7 +45,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,bootstrap,tailwind,daisyui,chakraui,git,github,vscode,postman,socketio,c,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,bootstrap,tailwind,github,vscode,postman,c,vercel,netlify" 
+       style="margin: 10px; transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
 </div>
 
 <br/>
